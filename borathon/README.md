@@ -1,5 +1,7 @@
 # Edge & IoT Borathon
 
+**NOTE: For this borathon, make sure you are in the "us-east-1" region since that region already has the necessary VPC setup in place.**
+
 This borathon will provide you with an opportunity to explore IoT capabilities in AWS. High-level tasks will include:
 
 - Creation of three (3) virtual devices or "things" for communicating temperature and humidity telemetry
